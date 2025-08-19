@@ -55,7 +55,7 @@ Applied mathematical formulas effectively in code
 
 Improved input handling and clean coding practices
 
-
+---
 ▶️ How to Run
 
 1. Ensure Python 3 is installed (or use Pyroid 3 on Android).
