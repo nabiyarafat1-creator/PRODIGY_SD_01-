@@ -22,4 +22,4 @@ elif unit.lower() == 'k':
     print(f"\n{kelvin:.2f} Kelvin = {celsius:.2f} Celsius and {fahrenheit:.2f} Fahrenheit")
 
 else:
-    print("\n❌ Invalid unit entered. Please use C, F, or K.")
+    print("\nInvalid unit entered. Please use C, F, or K.")
