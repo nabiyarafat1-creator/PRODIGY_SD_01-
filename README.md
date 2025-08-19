@@ -47,6 +47,14 @@ Enter the unit (C for Celsius, F for Fahrenheit, K for Kelvin): f
 
 
 ---
+🔑Key Learnings
+
+Strengthened understanding of Python basics and conditional logic
+
+Applied mathematical formulas effectively in code
+
+Improved input handling and clean coding practices
+
 
 ▶️ How to Run
 
