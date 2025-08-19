@@ -1,5 +1,5 @@
 # PRODIGY_SD_01-
-Temperature Unit Converter
+🌡️ Temperature Converter in Python
 
 A Python-based program that converts temperatures between Celsius, Fahrenheit, and Kelvin. This project demonstrates fundamental programming concepts such as user input handling, conditional statements, arithmetic operations, and formatted output.
 
